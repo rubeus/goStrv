@@ -1,2 +1,2 @@
-# goStrava
+# goStrv
 go client for strava
